@@ -1518,10 +1518,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://pesonaindonesia.tv/go/",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title1": "Own Website",
