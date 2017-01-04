@@ -20,7 +20,7 @@
         "isScrollToTopButton": false
       }
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/w-128x109-40.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
