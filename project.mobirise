@@ -2066,6 +2066,10 @@
             "H3": {
               "font-size": "36px",
               "color": "#ffffff"
+            },
+            "SMALL": {
+              "font-size": "21px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
