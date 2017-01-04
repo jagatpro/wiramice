@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wiramice",
-    "currentPage": "index.html",
+    "currentPage": "wiramice.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1832,7 +1832,7 @@
         }
       ]
     },
-    "index.html": {
+    "wiramice.html": {
       "settings": {
         "title": "wiracompro",
         "meta_descr": "",
