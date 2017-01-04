@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
@@ -1852,7 +1852,9 @@
               "font-size": "32px"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-title": {
               "font-size": "46px"
@@ -1879,7 +1881,7 @@
             "showButtons": false
           },
           "title": "TELE M-I-C-E",
-          "text": "<span style=\"line-height: 1.5;\">Seiring dengan membaiknya infrastruktur internet di Indonesia, pemanfaatan teknologi informasi dalam&nbsp;</span><span style=\"line-height: 1.5;\">&nbsp;penyelenggaraan meeting, incentive, conference dan exhibiton (MICE) pada 2017 akan tumbuh pesat.</span><br>",
+          "text": "<span style=\"line-height: 1.5;\">Seiring dengan membaiknya infrastruktur internet di Indonesia, pemanfaatan teknologi informasi dalam&nbsp;</span><span style=\"line-height: 1.5;\">&nbsp;penyelenggaraan <b>Meeting, Incentive, Conference dan Exhibiton</b> <b>(MICE)</b> pada 2017 akan tumbuh pesat.</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -2481,7 +2483,7 @@
           "text2": "",
           "form": {
             "title": "MESSAGE",
-            "action": "kontak.wira@gmail.com",
+            "action": "intartosaja@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },

@@ -52,6 +52,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -535,11 +541,13 @@ h6,
 #ext_menu-1y .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #header1-l .mbr-section-lead {
   font-size: 32px;
 }
 #header1-l .mbr-section-lead SPAN {
   font-size: 25px;
+  font-family: 'Lora', serif;
 }
 #header1-l .mbr-section-title {
   font-size: 46px;
