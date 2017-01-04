@@ -963,11 +963,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1299-2000x1333-4.jpg",
             "bgColor": "#2b0680",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
@@ -1176,7 +1176,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "72px",
+              "font-size": "36px",
               "color": "#ffffff"
             },
             "SMALL": {
@@ -1191,8 +1191,8 @@
           "_anchor": "header3-m",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2b0680",
+            "paddingBottom": "1",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "LAYANAN KAMI",
@@ -1209,7 +1209,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1431605695381-f4a9c3cdd150-2000x1333-45.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1321,7 +1321,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "72px",
+              "font-size": "36px",
               "color": "#ffffff"
             }
           },
@@ -1333,7 +1333,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2b0680",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "PLATFORM&nbsp;",
@@ -1350,7 +1350,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1455463690915-11babbaa3218-2000x1336-30.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1462,7 +1462,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "72px",
+              "font-size": "36px",
               "color": "#ffffff"
             },
             "SMALL": {
@@ -1478,7 +1478,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2b0680",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "PORTOFOLIO",
@@ -1495,7 +1495,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1438302439441-82e18f791f5e-2000x1345-0.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1727,11 +1727,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1299-2000x1333-4.jpg",
             "bgColor": "#2b0680",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
@@ -1783,12 +1783,12 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1297-2000x1333-61.jpg",
             "bgColor": "#2b0680",
-            "bgColorRadio": true,
-            "overlay": false,
+            "bgColorRadio": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "facebook": true,
@@ -1830,13 +1830,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b044f"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#260571!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2b0680"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1855,13 +1855,13 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1m",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
+            "transparent": true,
+            "sticky": false,
             "logo": false,
             "showBrand": true,
             "collapsed": true,
