@@ -435,6 +435,9 @@ h6,
 #header1-l .mbr-section-lead SPAN {
   font-size: 25px;
 }
+#header1-l .mbr-section-title {
+  font-size: 46px;
+}
 #header3-m .mbr-section-title,
 #header3-m .mbr-section-subtitle {
   text-align: center;

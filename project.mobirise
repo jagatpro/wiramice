@@ -1115,6 +1115,9 @@
             },
             ".mbr-section-lead SPAN": {
               "font-size": "25px"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_anchor": "header1-l",
