@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wiramice",
-    "currentPage": "index.html",
+    "currentPage": "artikel.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/bigw-w-3d-cmykfit-128x110-56.jpg",
@@ -94,7 +94,7 @@
           "_name": "header3",
           "_anchor": "header3-32",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "6",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
@@ -268,7 +268,7 @@
           "_anchor": "content2-33",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "7",
             "bgColor": "#fff"
           },
           "text": "<blockquote>MALAM ini tim Wiramice sibuk bukan main. Untuk kali ketiga pada bulan ini Wiramice Jogja akan menyelenggarakan siaran langsung. Bila dua kegiatan sebelumnya berkonsep kuliah kedokteran jarak jauh, kali ini kegiatannya adalah seminar motivasi kewirausahaan.</blockquote><blockquote>Tidak hanya tim Jogja yang sibuk. Di Jakarta pun demikian. Malam ini kantor Jakarta sedang ramai dengan aktivitas simulasi teknik untuk siaran langsung dari gedung Bank Indonesia Jakarta.</blockquote><blockquote>Yang menarik, persiapan live di Jogja itu dilakukan tim yang berada di dua lokasi berbeda. Sebagian di Jogja, sebagian lagi di Jakarta. Begitu pula rencana siaran langsung di Jakarta.</blockquote><blockquote>Pada era internet seperti sekarang ini, bekerja dapat dilakukan dari mana saja. Bekerja tidak harus di kantor fisik, karena kantor bisa dipindahkan secara virtual.</blockquote><blockquote>Jadi untuk siaran dari Jogja, beberapa konten disiapkan di Jakarta. Begitu pula setting broadcast system dilakukan secara jarak jauh.</blockquote><blockquote><br></blockquote>"
@@ -1535,11 +1535,12 @@
             },
             "H3": {
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#000000",
+              "text-align": "right"
             },
             "SMALL": {
               "font-size": "21px",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1548,9 +1549,9 @@
           "_name": "header3",
           "_anchor": "header3-m",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "7",
             "paddingBottom": "1",
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "LAYANAN KAMI",
@@ -1680,11 +1681,11 @@
             },
             "H3": {
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "SMALL": {
               "font-size": "21px",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1695,7 +1696,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "PLATFORM&nbsp;",
@@ -1825,11 +1826,11 @@
             },
             "H3": {
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "SMALL": {
               "font-size": "21px",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1840,7 +1841,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "PORTOFOLIO",
@@ -2086,11 +2087,11 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "36px"
             },
             "SMALL": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "21px"
             }
           },
@@ -2102,11 +2103,11 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "PROJECT 2017",
-          "meta": "PROYEK KAMI 2017"
+          "meta": "Proyek Kami 2017"
         },
         {
           "_tags": [

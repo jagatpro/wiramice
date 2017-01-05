@@ -414,9 +414,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #msg-box8-2t .mbr-section-title,
 #msg-box8-2t p {
   color: #fff;
@@ -553,11 +550,12 @@ h6,
 }
 #header3-m H3 {
   font-size: 36px;
-  color: #ffffff;
+  color: #000000;
+  text-align: right;
 }
 #header3-m SMALL {
   font-size: 21px;
-  color: #ffffff;
+  color: #000000;
 }
 #header3-1k .mbr-section-title,
 #header3-1k .mbr-section-subtitle {
@@ -565,11 +563,11 @@ h6,
 }
 #header3-1k H3 {
   font-size: 36px;
-  color: #ffffff;
+  color: #000000;
 }
 #header3-1k SMALL {
   font-size: 21px;
-  color: #ffffff;
+  color: #000000;
 }
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {
@@ -577,22 +575,22 @@ h6,
 }
 #header3-q H3 {
   font-size: 36px;
-  color: #ffffff;
+  color: #000000;
 }
 #header3-q SMALL {
   font-size: 21px;
-  color: #ffffff;
+  color: #000000;
 }
 #header3-1z .mbr-section-title,
 #header3-1z .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1z H3 {
-  color: #ffffff;
+  color: #000000;
   font-size: 36px;
 }
 #header3-1z SMALL {
-  color: #ffffff;
+  color: #000000;
   font-size: 21px;
 }
 #social-buttons3-1g .mbr-section-title,
