@@ -1,6 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -417,25 +418,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header3-d .mbr-section-title,
-#header3-d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-d H3 {
-  font-size: 72px;
-}
-#header3-12 .mbr-section-title,
-#header3-12 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-12 H3 {
-  font-size: 72px;
-}
-#social-buttons3-13 .mbr-section-title,
-#social-buttons3-13 .btn-social {
-  color: #fff;
-}
-
 #header1-l .mbr-section-lead {
   font-size: 32px;
 }
@@ -656,4 +638,22 @@ h6,
 #ext_menu-2s .link[aria-expanded="true"],
 #ext_menu-2s .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-d .mbr-section-title,
+#header3-d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-d H3 {
+  font-size: 72px;
+}
+#header3-12 .mbr-section-title,
+#header3-12 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-12 H3 {
+  font-size: 72px;
+}
+#social-buttons3-13 .mbr-section-title,
+#social-buttons3-13 .btn-social {
+  color: #fff;
 }
